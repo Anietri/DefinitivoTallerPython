@@ -14,3 +14,4 @@ while cantidaddeman != 0:
         total = total * .9
         descuento = (cantidaddeman * preciodeman)*.1
     print(f"Como te estás llevando: {cantidaddeman} y cuestan : {preciodeman} vas a pagar {total} y te ahorraste {descuento}")
+    break
