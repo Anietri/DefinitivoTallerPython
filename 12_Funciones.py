@@ -8,6 +8,7 @@ def clear():
 def saludo():
     print("Hola, buenos días")
 
+clear()
 saludo()
 saludo()
 print("Salió")
