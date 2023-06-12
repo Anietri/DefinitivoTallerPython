@@ -1,3 +1,6 @@
+from funciones import clear
+
+clear()
 edad = 18
 tienes50pesos = True
 dia = "lunes"
